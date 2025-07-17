@@ -15,6 +15,7 @@ Key components:
 - Model evaluation using accuracy and classification reports
 - Custom prediction function for real-time text input
 
+
 ## Models Used
 
 - **Traditional Machine Learning Models**: 
@@ -59,3 +60,9 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+<img width="1440" height="564" alt="Screenshot 2025-07-17 at 7 40 53 PM" src="https://github.com/user-attachments/assets/8304ef48-b2b5-405c-a027-a8f1c27d3bd0" />
+<img width="1440" height="659" alt="Screenshot 2025-07-17 at 7 40 04 PM" src="https://github.com/user-attachments/assets/584a54d1-60e9-4f47-afe4-ee41e502369c" />
+<img width="1440" height="666" alt="Screenshot 2025-07-17 at 7 39 27 PM" src="https://github.com/user-attachments/assets/fab34b70-6217-4147-99a6-9a38a02c4587" />
+
+
